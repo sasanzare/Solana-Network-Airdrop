@@ -1,0 +1,23 @@
+{
+  "name": "solana-network-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasanzare/Solana-Network-Airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasanzare/Solana-Network-Airdrop/issues"
+  },
+  "homepage": "https://github.com/sasanzare/Solana-Network-Airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.50.1"
+  }
+}
